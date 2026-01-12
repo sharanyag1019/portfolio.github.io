@@ -309,32 +309,33 @@ h3{
 }
 
 .box-content.one {
-  background-image: url("./full/poster.jpg");
+  background-image: url("./poster.jpg");
   cursor: url(point.png), pointer;
 }
 
 .box-content.two {
-  background-image: url("./full/room\ full\ day.png");
+  background-image: url("./room\ full\ day.png");
   cursor: url(point.png), pointer;
 }
 
 .box-content.three {
-  background-image: url("./full/shaun\ the\ sheep\ f.png");
+  background-image: url("./shaun\ the\ sheep\ f.png");
   cursor: url(point.png), pointer;
 }
 
 .box-content.four {
-  background-image: url("./full/something.gif");
+  background-image: url("./something.gif");
   cursor: url(point.png), pointer;
 }
 
 .box-content.five {
-  background-image: url("./full/Untitled.png");
+  background-image: url("./Untitled.png");
   cursor: url(point.png), pointer;
 }
 
 .box-content.six {
-  background-image: url("./full/vend.gif");
+  background-image: url("./vend.gif");
   cursor: url(point.png), pointer;
 }
+
 
