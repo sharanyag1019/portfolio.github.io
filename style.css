@@ -338,4 +338,13 @@ h3{
   cursor: url(point.png), pointer;
 }
 
+.box-content.seven {
+    background-image: url("./beetleeee.jpg");
+    cursor: url(point.png), pointer;
+}
+
+.box-content.eight {
+    background-image: url("./ahhhhhhhhhpt4.png");
+    cursor: url(point.png), pointer;
+}
 
