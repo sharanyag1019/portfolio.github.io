@@ -366,7 +366,7 @@ h3{
 }
 
 .modal .content {
-  height: fit-content;
+  height: 90vh;
   aspect-ratio: 4/5;
   position: relative;
 }
