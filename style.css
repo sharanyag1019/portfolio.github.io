@@ -387,7 +387,7 @@ h3{
 }
 
 .box-content.one {
-  background-image: url("./full/poster.jpg");
+  background-image: url("./poster.jpg");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -397,7 +397,7 @@ h3{
 }
 
 .box-content.two {
-  background-image: url("./full/room\ full\ day.png");
+  background-image: url("./room\ full\ day.png");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -407,7 +407,7 @@ h3{
 }
 
 .box-content.three {
-  background-image: url("./full/shaun\ the\ sheep\ f.png");
+  background-image: url("./shaun\ the\ sheep\ f.png");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -417,7 +417,7 @@ h3{
 }
 
 .box-content.four {
-  background-image: url("./full/something.gif");
+  background-image: url("./something.gif");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -427,7 +427,7 @@ h3{
 }
 
 .box-content.five {
-  background-image: url("./full/Untitled.png");
+  background-image: url("./Untitled.png");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -437,7 +437,7 @@ h3{
 }
 
 .box-content.six {
-  background-image: url("./full/vend.gif");
+  background-image: url("./vend.gif");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -447,7 +447,7 @@ h3{
 }
 
 .box-content.seven {
-  background-image: url("./full/beetleeee.jpg");
+  background-image: url("./beetleeee.jpg");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
@@ -457,7 +457,7 @@ h3{
 }
 
 .box-content.eight {
-  background-image: url("./full/ahhhhhhhhhpt4.png");
+  background-image: url("./ahhhhhhhhhpt4.png");
   cursor: url(point.png), pointer;
   transition: transform 0.3s;
 }
